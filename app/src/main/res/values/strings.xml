@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoodMorningCard-Compose-UI</string>
+    <string name="good_morning_message">Compose is Amazing!</string>
+    <string name="good_morning_greeting">Greeting from </string>
+</resources>
